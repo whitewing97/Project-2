@@ -101,7 +101,7 @@ def game_start():
 
     def ball_animation() -> None:
         """
-        This funciton determines the ball animation
+        This funciton determines the ball animation.
         """
         global ball_speed_x, ball_speed_y, player_score, opponent_score, high_score, score
 
