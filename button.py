@@ -1,5 +1,5 @@
 import pygame
-# Source: https://github.com/russs123/pygame_tutorials/blob/main/Menu/button.py
+
 class Button():
 	"""
 	This class defines how the button works.
